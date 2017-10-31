@@ -18,6 +18,6 @@
         "cryptonote-util": "git://github.com/fancoder/node-cryptonote-util.git"
     },
     "engines": {
-        "node": ">=8.7.0"
+        "node": ">=0.10"
     }
 }
