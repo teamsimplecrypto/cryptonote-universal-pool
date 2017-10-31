@@ -1,6 +1,6 @@
 {
-    "coin": "Aeon",
-    "symbol": "AEON",
+    "coin": "bytecoin",
+    "symbol": "BCN",
     "coinUnits": 100000000,
     "coinDifficultyTarget": 240,
 
